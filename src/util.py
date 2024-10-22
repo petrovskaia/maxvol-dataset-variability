@@ -259,7 +259,7 @@ def idx_to_idx(idx_big, idx):
 
 
 
-class MaxVolSampling():
+class MaxVolSampling:
 
     """
     Class to proccess data with MaxVol, cLHS and Random 
