@@ -17,11 +17,11 @@ How to run example of MaxVol soil-sampling based on environmental features?
 
 Open `How_to_start.ipynb` in Google Colab!
 
-<a href="https://colab.research.google.com/github/petrovskaia/maxvol-dataset-variability/blob/main/How_to_start.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+<a href="https://colab.research.google.com/github/petrovskaia/maxvol-dataset-variability/blob/main/notebooks/How_to_start.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 To plot results of comparison of MaxVol, cLHS and Simple Random Sampling open `Plots.ipynb`
 
-<a href="https://colab.research.google.com/github/petrovskaia/maxvol-dataset-variability/blob/main/Boxplots_Interpolation.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+<a href="https://colab.research.google.com/github/petrovskaia/maxvol-dataset-variability/blob/main/notebooks/Plotting.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 ## Dependencies
 
